@@ -1,0 +1,162 @@
+body {
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: "lato" .serif;
+  box-shadow: 0px 0px 30px 30px #d3d3d3;
+}
+.container {
+}
+.header {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  background-color: #272a31;
+  color: white;
+  padding-right: 200px;
+}
+img {
+  width: 30px;
+  height: 30px;
+  margin-left: 50px;
+}
+
+.pharm {
+  width: 100px;
+  height: 40px;
+  margin: 0%;
+}
+.nav-bar {
+  display: flex;
+  height: 60px;
+  align-items: center;
+  justify-content: center;
+}
+.nav {
+  display: flex;
+}
+.sec {
+  display: flex;
+  justify-content: center;
+}
+ul {
+  list-style: none;
+  display: flex;
+}
+li {
+  margin-left: 40px;
+}
+.program {
+  display: inline-block;
+  text-align: center;
+  padding: 10px;
+  width: 155px;
+  color: #d3d3d3;
+  background-color: #3d3f42;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.program1 {
+  display: inline-block;
+  text-align: center;
+  padding: 10px;
+  width: 155px;
+  color: #d3d3d3;
+  background-color: #3d3f42;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border: 4px solid #d3d3d3;
+}
+.img1 {
+  margin-left: auto;
+}
+.workspace {
+  border: 1px salmon;
+}
+.main {
+  background-color: #272a31;
+  color: #faf8f8;
+  text-align: center;
+  padding: 40px;
+}
+h4 {
+  color: #ec5242;
+}
+.sp {
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+.flex-con {
+  display: flex;
+  justify-content: center;
+}
+.feature {
+  display: block;
+}
+.paragraph {
+  display: inline-block;
+}
+h5 {
+  text-align: center;
+}
+.contain {
+  padding: 50px;
+  background-color: whitesmoke;
+}
+.foot {
+  text-align: center;
+  height: 200px;
+  background-color: #272a31;
+  color: #d3d3d3;
+  padding: 40px;
+}
+.partner {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+.logo {
+  height: 60px;
+  width: 150px;
+  margin-right: 15px;
+}
+.IEEE {
+  display: flex;
+  height: 200px;
+  align-content: center;
+  padding: 40px;
+  justify-content: center;
+  background-color: whitesmoke;
+}
+.prof {
+  color: #ec5242;
+  margin-bottom: 8px;
+}
+h3 {
+  color: #ec5242;
+  font-weight: 400;
+}
+.lato-black {
+  font-family: "Lato", serif;
+  font-weight: 900;
+  font-style: normal;
+  color: #ec5242;
+}
+.abt {
+  color: #ec5242;
+}
+.IEEE1 {
+  color: #ec5242;
+  border: 5px solid #ec5242;
+  padding: 3px;
+}
+.p-p {
+  display: inline-block;
+  color: #d3d3d3;
+  border-bottom: 2px solid #ec5242;
+  border-style: ;
+  padding-bottom: 3px;
+}

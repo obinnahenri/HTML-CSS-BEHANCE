@@ -1,0 +1,147 @@
+body {
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: "lato" .serif;
+  box-shadow: 0px 0px 30px 30px #d3d3d3;
+}
+.header {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  background-color: #272a31;
+  color: white;
+  padding-right: 200px;
+}
+ul {
+  list-style: none;
+  display: flex;
+}
+li {
+  margin-left: 30px;
+}
+img {
+  width: 30px;
+  height: 30px;
+  margin-left: 40px;
+}
+.nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60px;
+}
+.nav {
+  padding-right: 30px;
+}
+.pharm {
+  height: 40px;
+  width: 100px;
+  margin-right: 140px;
+}
+.pharm1 {
+  margin-left: 0px;
+}
+.home {
+  width: 20px;
+  height: 20px;
+}
+.home1 {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 30px;
+}
+.gt {
+  color: #ec5242;
+}
+h1 {
+  text-align: center;
+  color: #ec5242;
+  padding-top: 50px;
+  display: block;
+}
+.section {
+  background-color: whitesmoke;
+  padding-bottom: 50px;
+}
+.p {
+  background-color: white;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  padding: 30px;
+  border: 3px solid #d3d3d3;
+  margin-top: 30px;
+  color: #272a31;
+}
+p {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+.contact {
+  margin-top: 40px;
+}
+.email {
+  margin-top: 10px;
+}
+h2 {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 15px;
+}
+.logo2 {
+  height: 100px;
+  width: 200px;
+  padding: 20px 50px;
+  border: 3px solid #d3d3d3;
+  margin-top: 30px;
+  margin-left: 0px;
+}
+.logo {
+  display: flex;
+  justify-content: center;
+  margin-left: 0px;
+  border-b: 3px solid #f7f3f3;
+  padding-bottom: 30px;
+}
+.foot {
+  height: 200px;
+  background-color: #272a31;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+.text1 {
+  color: white;
+  text-align: left;
+}
+.footimg {
+  height: 60px;
+  width: 150px;
+}
+.abt {
+  color: #ec5242;
+}
+.IEEE1 {
+  color: #ec5242;
+  border: 3px solid #ec5242;
+  padding: 4px;
+}
+.conf1 {
+  background-image: url(img/conference1.jpg);
+  height: 250px;
+  width: 300px;
+}
+.conf2 {
+  background-image: url(img/publish_conferences-4.png);
+  height: 250px;
+  width: 300px;
+}
+.conference {
+  display: flex;
+  justify-content: center;
+}
