@@ -73,11 +73,13 @@ h1 {
   border: 3px solid #d3d3d3;
   margin-top: 30px;
   color: #272a31;
+  color: #888686;
 }
 p {
   width: 50%;
   margin: auto;
   text-align: center;
+  color: #888686;
 }
 .contact {
   margin-top: 40px;
@@ -116,7 +118,7 @@ h2 {
   margin-top: 30px;
 }
 .text1 {
-  color: white;
+  color: #d3d3d3;
   text-align: left;
 }
 .footimg {
@@ -133,15 +135,25 @@ h2 {
 }
 .conf1 {
   background-image: url(img/conference1.jpg);
-  height: 250px;
-  width: 300px;
+  height: 200px;
+  width: 320px;
+  margin-right: 10px;
+  opacity: 0.4;
+  text-align: center;
 }
 .conf2 {
   background-image: url(img/publish_conferences-4.png);
-  height: 250px;
-  width: 300px;
+  height: 200px;
+  width: 320px;
+  margin-left: 10px;
+  opacity: 0.6;
+  text-align: center;
 }
 .conference {
   display: flex;
   justify-content: center;
+  margin-top: 30px;
+}
+.white {
+  color: white;
 }
